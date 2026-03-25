@@ -1,0 +1,19 @@
+{
+  "scan_id": "2026-03-25-1244",
+  "root_path": "/tmp/test_scan",
+  "scanned_at": "2026-03-25T12:44:21.703791",
+  "data": [
+    {
+      "path": "/tmp/test_scan",
+      "size": 15
+    },
+    {
+      "path": "/tmp/test_scan/sub1",
+      "size": 10
+    },
+    {
+      "path": "/tmp/test_scan/sub1/sub2",
+      "size": 5
+    }
+  ]
+}

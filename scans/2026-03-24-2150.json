@@ -1,0 +1,971 @@
+{
+  "scan_id": "2026-03-24-2150",
+  "root_path": "/home/zcy/workspace",
+  "scanned_at": "2026-03-24T21:50:42.078266",
+  "data": [
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__",
+      "size": 9383
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__",
+      "size": 32461
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyparsing/diagram/__pycache__",
+      "size": 26819
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/filters/__pycache__",
+      "size": 37942
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__",
+      "size": 162309
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__pycache__",
+      "size": 4454
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__pycache__",
+      "size": 121713
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/compat/__pycache__",
+      "size": 632
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__",
+      "size": 15489
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/chardet/metadata/__pycache__",
+      "size": 9965
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/chardet/cli/__pycache__",
+      "size": 4217
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__pycache__",
+      "size": 10898
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/__pycache__",
+      "size": 49555
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports",
+      "size": 16143
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/__pycache__",
+      "size": 41530
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__",
+      "size": 100057
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport",
+      "size": 64015
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__",
+      "size": 86888
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__pycache__",
+      "size": 28312
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__pycache__",
+      "size": 22651
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__",
+      "size": 116394
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/operations/install/__pycache__",
+      "size": 35954
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__",
+      "size": 22555
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__",
+      "size": 283685
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/webencodings/__pycache__",
+      "size": 34408
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyparsing/__pycache__",
+      "size": 438369
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyparsing/diagram",
+      "size": 51034
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__",
+      "size": 51933
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/filters",
+      "size": 78328
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters",
+      "size": 298258
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/styles",
+      "size": 8154
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__",
+      "size": 166311
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers",
+      "size": 259548
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/tomli/__pycache__",
+      "size": 31609
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/compat",
+      "size": 788
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__",
+      "size": 46572
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process",
+      "size": 26962
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/__pycache__",
+      "size": 15730
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/chardet/metadata",
+      "size": 23525
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/chardet/__pycache__",
+      "size": 979219
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/chardet/cli",
+      "size": 7459
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__pycache__",
+      "size": 146479
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__",
+      "size": 49153
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches",
+      "size": 17939
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__",
+      "size": 70519
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/colorama/tests",
+      "size": 76542
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/colorama/__pycache__",
+      "size": 41657
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack/__pycache__",
+      "size": 56120
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__",
+      "size": 120392
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/distro/__pycache__",
+      "size": 55021
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__",
+      "size": 469484
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/tenacity/__pycache__",
+      "size": 75923
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__",
+      "size": 202290
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__",
+      "size": 1120300
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/certifi/__pycache__",
+      "size": 4305
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__",
+      "size": 167012
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages",
+      "size": 92338
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util",
+      "size": 197470
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib",
+      "size": 226050
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib",
+      "size": 46082
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/metadata/__pycache__",
+      "size": 60275
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__",
+      "size": 16259
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__",
+      "size": 125419
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__",
+      "size": 73676
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/locations/__pycache__",
+      "size": 35440
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__",
+      "size": 66455
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/resolution/legacy",
+      "size": 46676
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib",
+      "size": 211828
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/resolution/__pycache__",
+      "size": 1390
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__",
+      "size": 72992
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__",
+      "size": 155358
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/index/__pycache__",
+      "size": 75473
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__",
+      "size": 147396
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__",
+      "size": 103313
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/operations/install",
+      "size": 64598
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/operations/__pycache__",
+      "size": 43656
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/operations/build",
+      "size": 38037
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/idna",
+      "size": 587827
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/webencodings",
+      "size": 66141
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyparsing",
+      "size": 850583
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/truststore",
+      "size": 100845
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pygments",
+      "size": 982568
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/tomli",
+      "size": 57835
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib",
+      "size": 80843
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks",
+      "size": 55241
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/chardet",
+      "size": 2101289
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/pkg_resources",
+      "size": 255843
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol",
+      "size": 113943
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs",
+      "size": 128713
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/colorama",
+      "size": 148755
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack",
+      "size": 98956
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/packaging",
+      "size": 216684
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/__pycache__",
+      "size": 168025
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/distro",
+      "size": 105396
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/distlib",
+      "size": 859624
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/tenacity",
+      "size": 131143
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/requests",
+      "size": 381270
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/rich",
+      "size": 2011978
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/certifi",
+      "size": 290802
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3",
+      "size": 835735
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/metadata",
+      "size": 149265
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/distributions",
+      "size": 27688
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/req",
+      "size": 229680
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/vcs",
+      "size": 135677
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/locations",
+      "size": 67050
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__",
+      "size": 108574
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/models",
+      "size": 116609
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/resolution",
+      "size": 260477
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/network",
+      "size": 135851
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/utils",
+      "size": 276506
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/index",
+      "size": 138624
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/commands",
+      "size": 265017
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/cli",
+      "size": 193211
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal/operations",
+      "size": 191041
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_vendor",
+      "size": 10781204
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/_internal",
+      "size": 2381709
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip/__pycache__",
+      "size": 3742
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/logs/refs/remotes/origin",
+      "size": 1728
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/logs/refs/remotes/origin",
+      "size": 198
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/logs/refs/remotes/origin",
+      "size": 913
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/disk_watcher-0.1.0.dist-info",
+      "size": 1466
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/__pycache__",
+      "size": 4841
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip-24.0.dist-info",
+      "size": 92603
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages/pip",
+      "size": 13169594
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/logs/refs/heads",
+      "size": 2114
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/refs/remotes/origin",
+      "size": 121
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/logs/refs/heads",
+      "size": 198
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/refs/remotes/origin",
+      "size": 30
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/logs/refs/heads",
+      "size": 1130
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/refs/remotes/origin",
+      "size": 66
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12/site-packages",
+      "size": 13272005
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/82",
+      "size": 52163
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/28",
+      "size": 218
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/0e",
+      "size": 7303
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/bc",
+      "size": 8321
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/0f",
+      "size": 78
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/bb",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/07",
+      "size": 245
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/af",
+      "size": 221
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/b4",
+      "size": 51285
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/ce",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/e1",
+      "size": 51536
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/34",
+      "size": 309
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/ad",
+      "size": 209
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/50",
+      "size": 237
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/57",
+      "size": 210
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/1b",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/79",
+      "size": 8121
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/8b",
+      "size": 309
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/33",
+      "size": 52504
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/pack",
+      "size": 285681
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/4a",
+      "size": 216
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/d1",
+      "size": 52160
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/66",
+      "size": 56837
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/58",
+      "size": 52973
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/7d",
+      "size": 8805
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/0b",
+      "size": 7296
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/77",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/ef",
+      "size": 52337
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/29",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/f5",
+      "size": 56779
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/c6",
+      "size": 78
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/c4",
+      "size": 229
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/8d",
+      "size": 51244
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/9b",
+      "size": 78
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/05",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/cc",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/ca",
+      "size": 260
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/c8",
+      "size": 209
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/14",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/24",
+      "size": 209
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/a3",
+      "size": 56829
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects/b9",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/refs/heads",
+      "size": 66
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/objects/pack",
+      "size": 303596
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/refs/heads",
+      "size": 41
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/31",
+      "size": 78
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/d5",
+      "size": 188
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/23",
+      "size": 48922
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/2b",
+      "size": 78
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/af",
+      "size": 49509
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/b4",
+      "size": 155
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/38",
+      "size": 7709
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/d2",
+      "size": 186
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/39",
+      "size": 181
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/4f",
+      "size": 7981
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/3b",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/3c",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/50",
+      "size": 7916
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/26",
+      "size": 7993
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/b1",
+      "size": 183
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/e2",
+      "size": 46177
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/d0",
+      "size": 1419
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/3f",
+      "size": 6262
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/e5",
+      "size": 37137
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/9c",
+      "size": 172045
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/54",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/a2",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/73",
+      "size": 49381
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/41",
+      "size": 78
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/df",
+      "size": 7384
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/d7",
+      "size": 20180
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/cc",
+      "size": 78
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/1f",
+      "size": 49736
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/18",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/c2",
+      "size": 6294
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/6f",
+      "size": 5900
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects/93",
+      "size": 310
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/refs/heads",
+      "size": 66
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/data/events/love",
+      "size": 10616
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/info",
+      "size": 265
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/hooks",
+      "size": 26171
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/logs",
+      "size": 5956
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/info",
+      "size": 240
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/hooks",
+      "size": 25821
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/logs",
+      "size": 594
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/info",
+      "size": 265
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/hooks",
+      "size": 26171
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/logs",
+      "size": 3669
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/data/events",
+      "size": 21667
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/bin",
+      "size": 24078049
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher/__pycache__",
+      "size": 21397
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git",
+      "size": 952170
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.claude",
+      "size": 94
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/styles",
+      "size": 37944
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git",
+      "size": 331450
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/styles",
+      "size": 37944
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git",
+      "size": 566434
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.claude",
+      "size": 221
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/styles",
+      "size": 33672
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/data",
+      "size": 35099
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv",
+      "size": 37350231
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.claude",
+      "size": 155
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher",
+      "size": 35809
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher.egg-info",
+      "size": 560
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/scans",
+      "size": 29263
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份",
+      "size": 1489789
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator",
+      "size": 868975
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong",
+      "size": 1277146
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher",
+      "size": 37420298
+    },
+    {
+      "path": "/home/zcy/workspace",
+      "size": 41056208
+    }
+  ]
+}

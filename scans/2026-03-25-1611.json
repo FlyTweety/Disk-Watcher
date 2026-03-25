@@ -1,0 +1,2459 @@
+{
+  "scan_id": "2026-03-25-1611",
+  "root_path": "/home/zcy",
+  "scanned_at": "2026-03-25T16:11:39.072315",
+  "data": [
+    {
+      "path": "/home/zcy",
+      "size": 1398226073391
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg",
+      "size": 1397757795374
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune",
+      "size": 475341491383
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset",
+      "size": 330812786505
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/GRE",
+      "size": 258567999845
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024",
+      "size": 216404093152
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mvss_gre",
+      "size": 158584740712
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT",
+      "size": 108732109688
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/TGIF",
+      "size": 70181655429
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_cat_net_gre",
+      "size": 69694379686
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_iml_vit_gre",
+      "size": 55950842405
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/train_anime0-2000_output_dir",
+      "size": 54037030724
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/train_output_dir",
+      "size": 42972417646
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_gre",
+      "size": 38456390712
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Inpaintings",
+      "size": 35084691093
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Inpaintings/models",
+      "size": 35083400108
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download",
+      "size": 34880980769
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3",
+      "size": 17026359598
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION",
+      "size": 16810679541
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/weights_download",
+      "size": 16753831467
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/pkgs",
+      "size": 16463195781
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_v9fix_gre",
+      "size": 15681729569
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch",
+      "size": 14893039595
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv341_anime",
+      "size": 14182973348
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_iml_vit_anime_based_on_gre",
+      "size": 12328752738
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_mvss_anime",
+      "size": 12298471448
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/DanbooruRegion",
+      "size": 12197834513
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/output_train_mesorch_p_ckpt",
+      "size": 11362985551
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_mesorch_p_anime",
+      "size": 11359183230
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame",
+      "size": 11087680872
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/conda_env",
+      "size": 10951616349
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/output_dir-ori",
+      "size": 9918133050
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old",
+      "size": 9719363600
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv34_anime",
+      "size": 9342900456
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/pkgs",
+      "size": 9156206248
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_iml_vit_anime_round2",
+      "size": 8974896972
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024/civitai-web-scraper",
+      "size": 8912589351
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/conda_env_backup",
+      "size": 8589619887
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_mesorch_p_anime_based_on_gre",
+      "size": 7836803859
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_anime",
+      "size": 7668882503
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_mesorch_p_anime_based_on_gre47",
+      "size": 7001619483
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv35_anime",
+      "size": 6462421004
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwt_anime",
+      "size": 6213875422
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3",
+      "size": 6152458816
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_iml_vit_anime",
+      "size": 5780829253
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv3_anime",
+      "size": 5367920736
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion",
+      "size": 5216856336
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/checkpoints",
+      "size": 5214921635
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace",
+      "size": 5092835930
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_iml_vit_anime",
+      "size": 4496748699
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Colorizations",
+      "size": 4433151509
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Colorizations/sd_models",
+      "size": 4432586352
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/pkgs",
+      "size": 4122433618
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything",
+      "size": 4028981596
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.local",
+      "size": 3519130423
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.local/cuda-11.6",
+      "size": 3462545493
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_pscc_gre_new5e-5",
+      "size": 3198969411
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/download_datasets",
+      "size": 2989677749
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML",
+      "size": 2683692289
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/ckpt",
+      "size": 2593694325
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA",
+      "size": 2566895207
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/ck",
+      "size": 2564550879
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_pscc_gre",
+      "size": 2260123766
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/danbooru-old-some",
+      "size": 2025786083
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/danbooru0",
+      "size": 2025786083
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/myckpt",
+      "size": 2023482995
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/myckpt/AniXplore",
+      "size": 2023482274
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/lib",
+      "size": 1814830949
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_mvss_anime_based_on_gre",
+      "size": 1790085750
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mvss",
+      "size": 1749167857
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/run",
+      "size": 1708828099
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_cat_net_anime",
+      "size": 1693870852
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv4_anime",
+      "size": 1601437324
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv5_anime",
+      "size": 1554798999
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_cat_net",
+      "size": 1547811483
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/output_train_mesorch_p",
+      "size": 1514139593
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/SanbooruCSV",
+      "size": 1409329629
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/ckpt_mesorch",
+      "size": 1023886070
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_trufor",
+      "size": 854676097
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_dir",
+      "size": 824377552
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_train_turfor",
+      "size": 814627533
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/ckpt_mesorch_p",
+      "size": 812736608
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_pscc_gre1e-4",
+      "size": 807928504
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/conda",
+      "size": 806114408
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MPC",
+      "size": 790727107
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet",
+      "size": 745026341
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net",
+      "size": 734574305
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/checkpoints",
+      "size": 734384278
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/pretrained_models",
+      "size": 734054923
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Objectformer",
+      "size": 676818983
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Objectformer/ckpt",
+      "size": 676770491
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/Sanbooru0-2000backup",
+      "size": 665426119
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/weights",
+      "size": 630826833
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo",
+      "size": 607574794
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SparseViT",
+      "size": 604945610
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SparseViT/checkpoint",
+      "size": 604232784
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/ckpts",
+      "size": 604232742
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/personal",
+      "size": 474183500
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/download_weights",
+      "size": 461059995
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/lib",
+      "size": 429210398
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/lib",
+      "size": 429210398
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/Sanbooru0-2000",
+      "size": 389106258
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/personal/train",
+      "size": 376620467
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts",
+      "size": 362545791
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/pretrained-weights",
+      "size": 343250087
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_pscc_net_anime",
+      "size": 332879672
+    },
+    {
+      "path": "/home/zcy/.vscode-server",
+      "size": 331838421
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/Sanbooru2000-4000",
+      "size": 321750448
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts_old",
+      "size": 304194310
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch",
+      "size": 236270417
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/TEST_OUTPUT_DIR",
+      "size": 224630031
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch/weights",
+      "size": 217631959
+    },
+    {
+      "path": "/home/zcy/.vscode-server/data",
+      "size": 207895105
+    },
+    {
+      "path": "/home/zcy/.vscode-server/data/CachedExtensionVSIXs",
+      "size": 207863710
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_trufor_anime",
+      "size": 194001959
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/image_output_safebooru0-2000-test_anime0-2000-epoch44",
+      "size": 186357961
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/seg_pretrain",
+      "size": 178427627
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/image_output_safebooru0-2000-test_autosplice-epoch36",
+      "size": 176323865
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/bin",
+      "size": 171711195
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/verl",
+      "size": 128973552
+    },
+    {
+      "path": "/home/zcy/.vscode-server/bin/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb",
+      "size": 123480267
+    },
+    {
+      "path": "/home/zcy/.vscode-server/bin",
+      "size": 123480267
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/image_output_autosplice-test_autosplice-epoch36",
+      "size": 120825898
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection",
+      "size": 116497565
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/model_data",
+      "size": 113218605
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/rclone",
+      "size": 109794588
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/run/log",
+      "size": 108302382
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/personal/val",
+      "size": 97310990
+    },
+    {
+      "path": "/home/zcy/.cursor-server",
+      "size": 96993065
+    },
+    {
+      "path": "/home/zcy/.cursor-server/bin/643ba67cd252e2888e296dd0cf34a0c5d7625b90",
+      "size": 96991466
+    },
+    {
+      "path": "/home/zcy/.cursor-server/bin",
+      "size": 96991466
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/bin",
+      "size": 90532559
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/bin",
+      "size": 90526094
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion",
+      "size": 86603870
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/rclone/rclone-v1.72.1-linux-amd64",
+      "size": 82753790
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/dataset",
+      "size": 81718738
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield",
+      "size": 75277950
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_pscc_net",
+      "size": 69521230
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/DTE-FDM",
+      "size": 66526021
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.local/bin",
+      "size": 56584930
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/VISAM",
+      "size": 40683374
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/assets",
+      "size": 27311525
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/resources",
+      "size": 18838002
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch/demos",
+      "size": 16023566
+    },
+    {
+      "path": "/home/zcy/.cache",
+      "size": 15202275
+    },
+    {
+      "path": "/home/zcy/.cache/.lingma",
+      "size": 15200919
+    },
+    {
+      "path": "/home/zcy/.cache/.lingma/env",
+      "size": 15200880
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv",
+      "size": 14038111
+    },
+    {
+      "path": "/home/zcy/downloads",
+      "size": 14038111
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/mmcv",
+      "size": 13775528
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/Sanbooru2000-2100",
+      "size": 13698813
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/translations",
+      "size": 12595277
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/AutoSplice",
+      "size": 9909828
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/npr_images_general",
+      "size": 8429620
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/examples",
+      "size": 6905049
+    },
+    {
+      "path": "/home/zcy/.lingma",
+      "size": 6034848
+    },
+    {
+      "path": "/home/zcy/.lingma/model",
+      "size": 5827275
+    },
+    {
+      "path": "/home/zcy/.lingma/model/env",
+      "size": 5827249
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image",
+      "size": 5726154
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/assets",
+      "size": 5633648
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/item_images",
+      "size": 5597710
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/include",
+      "size": 4920339
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/conda-meta",
+      "size": 4222592
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/include",
+      "size": 3607624
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/include",
+      "size": 3607624
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/test_output_dir",
+      "size": 3375173
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/test_anime_output_dir",
+      "size": 3224094
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MLLM_Datasets",
+      "size": 2794680
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MLLM_Datasets/LOKI",
+      "size": 2783865
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/danbooru2017test",
+      "size": 2653314
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/danbooru2017test20",
+      "size": 2653314
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/images",
+      "size": 2472807
+    },
+    {
+      "path": "/home/zcy/workspace",
+      "size": 2232496
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/compiler_compat",
+      "size": 2195549
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/compiler_compat",
+      "size": 2195549
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/playground",
+      "size": 2060967
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/compiler_compat",
+      "size": 2018525
+    },
+    {
+      "path": "/home/zcy/.claude",
+      "size": 1747298
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/assets",
+      "size": 1611583
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Inpaintings/Pipeline",
+      "size": 1288710
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch/figures",
+      "size": 1279494
+    },
+    {
+      "path": "/home/zcy/.claude/projects/-home-zcy-workspace-disk-watcher",
+      "size": 1232782
+    },
+    {
+      "path": "/home/zcy/.claude/projects",
+      "size": 1232782
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/images",
+      "size": 1180978
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/examples",
+      "size": 932303
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_imgs+1732593877.2119598",
+      "size": 894971
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_imgs",
+      "size": 888388
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/conda-meta",
+      "size": 883393
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/conda-meta",
+      "size": 883393
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo_cross",
+      "size": 862792
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/outputs",
+      "size": 818494
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch/test_samples",
+      "size": 800955
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/scripts",
+      "size": 762855
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo_cross/run",
+      "size": 733382
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/sbin",
+      "size": 717323
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/sbin",
+      "size": 717323
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong",
+      "size": 690232
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SparseViT/images",
+      "size": 682186
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/run",
+      "size": 670475
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/compare_pictures",
+      "size": 664786
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo",
+      "size": 664454
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/images",
+      "size": 653756
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/images",
+      "size": 633634
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MPC/images",
+      "size": 632736
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_pscc_net_testnoamp",
+      "size": 545365
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_pscc_net_testamp",
+      "size": 541535
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份",
+      "size": 538931
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator",
+      "size": 538653
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo/run",
+      "size": 517042
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/ssl",
+      "size": 495166
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/ssl",
+      "size": 495166
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch/results",
+      "size": 487572
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/inpaint_images",
+      "size": 485081
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher",
+      "size": 464680
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions",
+      "size": 463049
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache",
+      "size": 445163
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/ssl",
+      "size": 441947
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/scans",
+      "size": 441706
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Colorizations/stable-diffusion-reference-only",
+      "size": 415725
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/figs",
+      "size": 403236
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/figs",
+      "size": 403236
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/data",
+      "size": 391586
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/data",
+      "size": 384479
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/assets",
+      "size": 382353
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/tvm-ffi",
+      "size": 373928
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/Verify",
+      "size": 350918
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/.git",
+      "size": 314570
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/phrasebooks",
+      "size": 296539
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/github_images",
+      "size": 246634
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/input",
+      "size": 234859
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_imgs+1732594894.6896338",
+      "size": 231535
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/anime-example",
+      "size": 228383
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_cat_net_anime_debug",
+      "size": 216796
+    },
+    {
+      "path": "/home/zcy/.lingma/cache",
+      "size": 196998
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/vis_output",
+      "size": 188786
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_imgs+1732597399.0918045",
+      "size": 184864
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/IMDLBenCo",
+      "size": 181174
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_imgs+1732598625.0281053",
+      "size": 174563
+    },
+    {
+      "path": "/home/zcy/.claude/cache",
+      "size": 166290
+    },
+    {
+      "path": "/home/zcy/.lingma/cache/db",
+      "size": 159744
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.20",
+      "size": 158722
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_test_trufor",
+      "size": 152694
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv34HR_anime",
+      "size": 146591
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/.git",
+      "size": 141600
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_test_pscc",
+      "size": 125245
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/personal/test",
+      "size": 118769
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/test_pscc/PSCC-Net",
+      "size": 116601
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/test_pscc",
+      "size": 116601
+    },
+    {
+      "path": "/home/zcy/.npm",
+      "size": 103810
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Colorizations/diffusers",
+      "size": 103650
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_iml_vit_anime_new",
+      "size": 99617
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/.git",
+      "size": 99150
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML-old/old",
+      "size": 97382
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML-old",
+      "size": 97382
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/libexec",
+      "size": 90568
+    },
+    {
+      "path": "/home/zcy/.claude/file-history/51fe2ebe-c060-46a0-8dbd-3a70626dc60c",
+      "size": 88826
+    },
+    {
+      "path": "/home/zcy/.claude/file-history",
+      "size": 88826
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/finetune_qwen",
+      "size": 84295
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions/qwtel.sqlite-viewer-25.12.2-linux-x64",
+      "size": 81832
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/utils",
+      "size": 78878
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/.git",
+      "size": 78421
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_trufor_anime_debug",
+      "size": 75477
+    },
+    {
+      "path": "/home/zcy/.claude/backups",
+      "size": 75146
+    },
+    {
+      "path": "/home/zcy/.npm/_npx",
+      "size": 74851
+    },
+    {
+      "path": "/home/zcy/.claude/statsig",
+      "size": 71082
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/mmcv",
+      "size": 70740
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/mmcv_source",
+      "size": 70740
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/matplotlib",
+      "size": 70318
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config",
+      "size": 70282
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/run/src",
+      "size": 70251
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts_old/.git",
+      "size": 70244
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts/.git",
+      "size": 70244
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/vllm",
+      "size": 67422
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv6_anime",
+      "size": 65715
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo/.git",
+      "size": 61148
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv6_anime_debug",
+      "size": 60377
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/sam2",
+      "size": 59833
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/run/scripts",
+      "size": 58797
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv33_anime",
+      "size": 58708
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/qml",
+      "size": 56367
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/nets",
+      "size": 55917
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/output_test_mesorch_f1",
+      "size": 55073
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/tests",
+      "size": 54825
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/MFLM",
+      "size": 51467
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/utils",
+      "size": 51121
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/finetune_qwen/mini_vlm_25_5_14",
+      "size": 50423
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/modules",
+      "size": 47990
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/IMDLBenCo-main",
+      "size": 47577
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/model",
+      "size": 46207
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions/cweijan.vscode-excel-3.5.4",
+      "size": 44844
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.110.2026032501",
+      "size": 43862
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.110.2026031109",
+      "size": 43692
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.110.2026032501",
+      "size": 43238
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo_cross/.git",
+      "size": 43146
+    },
+    {
+      "path": "/home/zcy/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.110.2026031109",
+      "size": 43068
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Colorizations/Pipeline",
+      "size": 42464
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/.git",
+      "size": 42439
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/model",
+      "size": 42388
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/temp",
+      "size": 41680
+    },
+    {
+      "path": "/home/zcy/.npm/_npx/aefbec131226782c",
+      "size": 40805
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/styles",
+      "size": 37944
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/styles",
+      "size": 37944
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_test_mvss-net",
+      "size": 37515
+    },
+    {
+      "path": "/home/zcy/.claude/debug",
+      "size": 37457
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/utils",
+      "size": 37103
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/waifuc",
+      "size": 37085
+    },
+    {
+      "path": "/home/zcy/.npm/_npx/2f024689b4d0d3b0",
+      "size": 34046
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/styles",
+      "size": 33672
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/EfficientSAM",
+      "size": 33550
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_imlvit4exp_fuse_all",
+      "size": 33539
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/__pycache__",
+      "size": 32980
+    },
+    {
+      "path": "/home/zcy/.npm/_logs",
+      "size": 28959
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.ipython/profile_default",
+      "size": 28672
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.ipython",
+      "size": 28672
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/.git",
+      "size": 28261
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/models",
+      "size": 27290
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/models",
+      "size": 27290
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/anime-debug",
+      "size": 26803
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/GroundingDINO",
+      "size": 25963
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/mmcv_full.egg-info",
+      "size": 25293
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/tests",
+      "size": 24692
+    },
+    {
+      "path": "/home/zcy/.claude/shell-snapshots",
+      "size": 24687
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo/tests",
+      "size": 24674
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo_cross/tests",
+      "size": 24674
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/segment_anything",
+      "size": 23642
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/eval",
+      "size": 22885
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/lang-segment-anything",
+      "size": 22562
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/scripts",
+      "size": 22496
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_test_iml-vit",
+      "size": 22110
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Objectformer/.git",
+      "size": 20685
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/imdlbenco.egg-info",
+      "size": 20622
+    },
+    {
+      "path": "/home/zcy/.ssh",
+      "size": 20506
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/grounded-sam-osx",
+      "size": 20304
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/runs",
+      "size": 20037
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Objectformer/tools",
+      "size": 19832
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher",
+      "size": 17802
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/markdown_table",
+      "size": 17139
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/.git",
+      "size": 16482
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/__pycache__",
+      "size": 16468
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LVMs",
+      "size": 16199
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/common",
+      "size": 16008
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/common",
+      "size": 16008
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/tools",
+      "size": 14660
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/.git",
+      "size": 14533
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/networks",
+      "size": 13667
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/data",
+      "size": 13432
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/npr_images",
+      "size": 12810
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/IMDLBenCo",
+      "size": 12693
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo/IMDLBenCo",
+      "size": 12693
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_IMDLBenCo_cross/IMDLBenCo",
+      "size": 12693
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_finetune_mesorch_p_anime_debug",
+      "size": 12524
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/voxelnext_3d_box",
+      "size": 12126
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/dataset",
+      "size": 11705
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MLLM_Datasets/CommunityForensic",
+      "size": 10815
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/__pycache__",
+      "size": 10068
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch/__pycache__",
+      "size": 9741
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/.git",
+      "size": 9612
+    },
+    {
+      "path": "/home/zcy/.zai",
+      "size": 9570
+    },
+    {
+      "path": "/home/zcy/.lingma/logs",
+      "size": 9139
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/options",
+      "size": 8503
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/.git",
+      "size": 7761
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/ldm",
+      "size": 7559
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/experiments",
+      "size": 7361
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/eval_dir_mesorch_f1",
+      "size": 7278
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/.git",
+      "size": 7193
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/requirements",
+      "size": 7087
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/code_from_zhang/AnimeInpaint",
+      "size": 6605
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/code_from_zhang",
+      "size": 6605
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/experiments",
+      "size": 6516
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024/inpaint",
+      "size": 6239
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/.circleci",
+      "size": 6120
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/eval_dir",
+      "size": 5963
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/data",
+      "size": 5915
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/cmake",
+      "size": 5488
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/cmake",
+      "size": 5488
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MPC/.git",
+      "size": 5127
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/wandb",
+      "size": 4748
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/experiments",
+      "size": 4697
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Objectformer/configs",
+      "size": 4609
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/extractor",
+      "size": 4585
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/doc",
+      "size": 4304
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/tools",
+      "size": 4281
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/__pycache__",
+      "size": 4127
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.ssh",
+      "size": 3853
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/NPR-DeepfakeDetection/.git",
+      "size": 3610
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/.git",
+      "size": 3026
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024/test_res",
+      "size": 2940
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/mkspecs",
+      "size": 2898
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/.git",
+      "size": 2890
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/examples",
+      "size": 2813
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/configs",
+      "size": 2783
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Mesorch/.git",
+      "size": 2572
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Anime2Sketch/.git",
+      "size": 2404
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Inpaintings/tryDiffusers",
+      "size": 2275
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Colorizations/tryDiffuser",
+      "size": 2225
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.nv/ComputeCache",
+      "size": 2128
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.nv",
+      "size": 2128
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SparseViT/.git",
+      "size": 2077
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/.github",
+      "size": 1825
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/htop",
+      "size": 1684
+    },
+    {
+      "path": "/home/zcy/.claude/todos",
+      "size": 1629
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/.dev_scripts",
+      "size": 1443
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/mmdet",
+      "size": 1438
+    },
+    {
+      "path": "/home/zcy/.cache/typescript/5.9",
+      "size": 1320
+    },
+    {
+      "path": "/home/zcy/.cache/typescript",
+      "size": 1320
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git",
+      "size": 1312
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git",
+      "size": 1187
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git",
+      "size": 1128
+    },
+    {
+      "path": "/home/zcy/.lingma/bin",
+      "size": 1124
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Colorizations/download_models",
+      "size": 1093
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/configs",
+      "size": 1086
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/configs",
+      "size": 1086
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/playground",
+      "size": 995
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.conda",
+      "size": 708
+    },
+    {
+      "path": "/home/zcy/.claude/plugins",
+      "size": 687
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024/data_list",
+      "size": 684
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/rclone",
+      "size": 682
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/anime-debug-1",
+      "size": 610
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/Danbooru2021",
+      "size": 610
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher.egg-info",
+      "size": 560
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/condabin",
+      "size": 530
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/condabin",
+      "size": 530
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/stable_diffusion.egg-info",
+      "size": 430
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/conda-anaconda-tos",
+      "size": 398
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/requirements",
+      "size": 374
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/myckpt/finetune",
+      "size": 363
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Objectformer/GeneratingTool",
+      "size": 354
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.bypy",
+      "size": 346
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/uv",
+      "size": 325
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/gdown",
+      "size": 325
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/anime-debug-onlyreal",
+      "size": 319
+    },
+    {
+      "path": "/home/zcy/.lingma/extension/local",
+      "size": 279
+    },
+    {
+      "path": "/home/zcy/.lingma/extension",
+      "size": 279
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/anime-debug-onlyt2i",
+      "size": 259
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.claude",
+      "size": 221
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/finetune_qwen/__MACOSX",
+      "size": 212
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv",
+      "size": 177
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/mlflow",
+      "size": 158
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.claude",
+      "size": 155
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/pretrained",
+      "size": 133
+    },
+    {
+      "path": "/home/zcy/.claude/sessions",
+      "size": 130
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/torch",
+      "size": 113
+    },
+    {
+      "path": "/home/zcy/.cursor",
+      "size": 109
+    },
+    {
+      "path": "/home/zcy/.chelper",
+      "size": 99
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.claude",
+      "size": 94
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/train_anime0-4000_output_dir",
+      "size": 88
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/output_train_imlvit",
+      "size": 63
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/uv",
+      "size": 44
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/huggingface",
+      "size": 37
+    },
+    {
+      "path": "/home/zcy/.cache/Microsoft/DeveloperTools",
+      "size": 36
+    },
+    {
+      "path": "/home/zcy/.cache/Microsoft",
+      "size": 36
+    },
+    {
+      "path": "/home/zcy/.cursor-server/data",
+      "size": 36
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.modelscope/credentials",
+      "size": 32
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.modelscope",
+      "size": 32
+    },
+    {
+      "path": "/home/zcy/.config/git",
+      "size": 31
+    },
+    {
+      "path": "/home/zcy/.config",
+      "size": 31
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.anaconda_backup/2024-11-21T200335",
+      "size": 23
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.anaconda_backup",
+      "size": 23
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/etc",
+      "size": 22
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/etc",
+      "size": 22
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/wandb",
+      "size": 11
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.triton/autotune",
+      "size": 10
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.triton",
+      "size": 10
+    },
+    {
+      "path": "/home/zcy/.cursor-server/extensions",
+      "size": 2
+    },
+    {
+      "path": "/home/zcy/.cache/claude-cli-nodejs/-home-zcy-workspace-UniversitySimulator",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cache/claude-cli-nodejs/-home-zcy-workspace-disk-watcher",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cache/claude-cli-nodejs/-home-zcy-workspace-UnivSim",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cache/pip/http-v2",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.lingma/index/meta",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.lingma/index/completion",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.dotnet/corefx/cryptography",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.claude/plugins/marketplaces",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.lingma/bin/2.5.18",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.claude/projects/-home-zcy-workspace-UniversitySimulator",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.claude/projects/-home-zcy",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.claude/projects/-home-zcy-workspace-UnivSim",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.claude/session-env/51fe2ebe-c060-46a0-8dbd-3a70626dc60c",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cursor-server/data/logs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cursor-server/data/CachedProfilesData",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cursor-server/data/Machine",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cursor-server/data/User",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm/_cacache/content-v2",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm/_cacache/tmp",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/snap/tree/common",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/snap/tree/54",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.vscode-server/data/logs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.vscode-server/data/CachedProfilesData",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.vscode-server/data/Machine",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.vscode-server/data/User",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm/_cacache/index-v5",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm-global/lib/node_modules",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/docs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/downloads/mmcv/build",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.conda/tos",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/matplotlib",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/procps",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.config/fish",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.gnupg/private-keys-v1.d",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/YAPF",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/conda",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/kagglehub",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/pip",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/mim",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/wandb",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/vllm",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/flashinfer",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.cache/modelscope",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/FakeShield/weight",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AI-edit-dataset/paper-draw",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/Splicing",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/lib",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/CAT-Net/output",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/log",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/samples",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/EITLNet/test_out",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MPC/CATNet_dataset_train",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Objectformer/ObjectFormer",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/.github",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo/output_debug",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/snap/snapd-desktop-integration",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/snap/firmware-updater",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/doc",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/envs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/etc",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/man",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/plugins",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/share",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/var",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anaconda3/x86_64-conda_cos6-linux-gnu",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Grounded-Segment-Anything/myOutput",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IML-ViT/ouput_dir",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/envs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/man",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/share",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/shell",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/x86_64-conda-linux-gnu",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3_old/x86_64-conda_cos7-linux-gnu",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/dataset_from_zhang/HL1223",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/dataset_from_zhang/HLHC1223-1",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/dataset_from_zhang/HLHC1223-2",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/envs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/man",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/share",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/shell",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/x86_64-conda-linux-gnu",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/miniconda3/x86_64-conda_cos7-linux-gnu",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/DanbooRegion2020",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/AnitaDataset",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/danbooru2017",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_dataset_download/myTestset",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/logs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/outputs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MMFusion-IML/results",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/stablediffusion/configs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/item_images-25-03-24-01-16",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/item_images-25-03-24-01-37",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/item_images-25-03-24-01-45",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/scene2image/item_images-25-03-24-01-54",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024/resize_images",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024/untar_images",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AniXplore/test_mymodel",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/download_checkpoints",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/workspace/log",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/myckpt/civitai",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/myckpt/cross-dataset",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/myckpt/trainfromscratch",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/Danbooru2024/images",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.local/lib",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.local/state",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/bs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/fs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/Datasets",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/Downloads",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/logs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/results",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/code_release",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/tsubame/Models",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/assets",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/scripts",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/LEGION/output",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.triton/cache",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_mesorch_p_dwtv2_anime",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/IMDLBenCo-run-outputtrainorfinetune/output_train_trufor_gre",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/dataset",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/SIDA/text_output",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/h200_MMFusion/results",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts_old/code_backup",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts/result",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts/code_backup",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/anime_exp_scripts_old/result",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cache/claude-cli-nodejs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.cache/pip",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.lingma/tmp",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.lingma/index",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.dotnet/corefx",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.config/rclone",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.claude/session-env",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm-global/bin",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm/_cacache",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/snap/tree",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm-global/lib",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.gnupg",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/snap",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/dataset_from_zhang",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/test_npr",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/AniXplore",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/MLLM_Project",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_elab-seg/.anaconda",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.dotnet",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace_bcm",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.npm-global",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/snap",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/.landscape",
+      "size": 0
+    }
+  ]
+}

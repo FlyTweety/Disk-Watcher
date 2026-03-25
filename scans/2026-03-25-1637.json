@@ -1,0 +1,31 @@
+{
+  "scan_id": "2026-03-25-1637",
+  "root_path": "/tmp/test_tree",
+  "scanned_at": "2026-03-25T16:37:19.816109",
+  "data": [
+    {
+      "path": "/tmp/test_tree",
+      "size": 25
+    },
+    {
+      "path": "/tmp/test_tree/a",
+      "size": 15
+    },
+    {
+      "path": "/tmp/test_tree/a/b",
+      "size": 10
+    },
+    {
+      "path": "/tmp/test_tree/x",
+      "size": 10
+    },
+    {
+      "path": "/tmp/test_tree/a/b/c",
+      "size": 5
+    },
+    {
+      "path": "/tmp/test_tree/x/y",
+      "size": 5
+    }
+  ]
+}

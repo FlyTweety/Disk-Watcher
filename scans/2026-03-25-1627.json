@@ -1,0 +1,55 @@
+{
+  "scan_id": "2026-03-25-1627",
+  "root_path": "/home/zcy/workspace/disk-watcher",
+  "scanned_at": "2026-03-25T16:27:54.065511",
+  "data": [
+    {
+      "path": "/home/zcy/workspace/disk-watcher",
+      "size": 668993
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/scans",
+      "size": 598828
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher",
+      "size": 49728
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher/__pycache__",
+      "size": 29389
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv",
+      "size": 15442
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/bin",
+      "size": 15265
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher.egg-info",
+      "size": 560
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.claude",
+      "size": 155
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib/python3.12",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/include/python3.12",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/include",
+      "size": 0
+    }
+  ]
+}

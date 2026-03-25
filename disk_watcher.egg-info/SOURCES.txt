@@ -1,0 +1,11 @@
+pyproject.toml
+disk_watcher/__init__.py
+disk_watcher/__main__.py
+disk_watcher/reporter.py
+disk_watcher/scanner.py
+disk_watcher/storage.py
+disk_watcher.egg-info/PKG-INFO
+disk_watcher.egg-info/SOURCES.txt
+disk_watcher.egg-info/dependency_links.txt
+disk_watcher.egg-info/entry_points.txt
+disk_watcher.egg-info/top_level.txt

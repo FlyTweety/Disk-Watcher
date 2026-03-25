@@ -1,0 +1,103 @@
+{
+  "scan_id": "2026-03-20-1830",
+  "root_path": "/mnt/data",
+  "scanned_at": "2026-03-20T18:30:00.151891",
+  "data": [
+    {
+      "path": "/mnt/data",
+      "size": 53375664128
+    },
+    {
+      "path": "/mnt/data/home",
+      "size": 33596375040
+    },
+    {
+      "path": "/mnt/data/home/zcy",
+      "size": 21251489792
+    },
+    {
+      "path": "/mnt/data/home/zcy/Downloads",
+      "size": 9756999680
+    },
+    {
+      "path": "/mnt/data/home/zcy/Downloads/movies",
+      "size": 5776605184
+    },
+    {
+      "path": "/mnt/data/home/zcy/Downloads/documents",
+      "size": 594542592
+    },
+    {
+      "path": "/mnt/data/home/zcy/Downloads/temp",
+      "size": 227540992
+    },
+    {
+      "path": "/mnt/data/home/zcy/Projects",
+      "size": 5550112768
+    },
+    {
+      "path": "/mnt/data/home/zcy/Projects/project-a",
+      "size": 3146776576
+    },
+    {
+      "path": "/mnt/data/home/zcy/Projects/project-a/src",
+      "size": 569376768
+    },
+    {
+      "path": "/mnt/data/home/zcy/Projects/project-a/node_modules",
+      "size": 2172649472
+    },
+    {
+      "path": "/mnt/data/home/zcy/Projects/project-b",
+      "size": 2216689664
+    },
+    {
+      "path": "/mnt/data/home/zcy/.cache",
+      "size": 3600809984
+    },
+    {
+      "path": "/mnt/data/home/zcy/.cache/pip",
+      "size": 1669332992
+    },
+    {
+      "path": "/mnt/data/home/zcy/.cache/npm",
+      "size": 1368391680
+    },
+    {
+      "path": "/mnt/data/home/zcy/.local",
+      "size": 2212495360
+    },
+    {
+      "path": "/mnt/data/home/zcy/.local/share",
+      "size": 1907359744
+    },
+    {
+      "path": "/mnt/data/var",
+      "size": 15866003456
+    },
+    {
+      "path": "/mnt/data/var/log",
+      "size": 558891008
+    },
+    {
+      "path": "/mnt/data/var/cache",
+      "size": 3401580544
+    },
+    {
+      "path": "/mnt/data/var/cache/apt",
+      "size": 2932867072
+    },
+    {
+      "path": "/mnt/data/usr",
+      "size": 10520363008
+    },
+    {
+      "path": "/mnt/data/usr/lib",
+      "size": 8799649792
+    },
+    {
+      "path": "/mnt/data/opt",
+      "size": 5258608640
+    }
+  ]
+}

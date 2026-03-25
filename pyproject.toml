@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "disk-watcher"
+version = "0.1.0"
+description = "Monitor disk space changes over time"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+disk-watcher = "disk_watcher.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["disk_watcher*"]
