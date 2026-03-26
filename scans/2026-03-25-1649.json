@@ -1,0 +1,203 @@
+{
+  "scan_id": "2026-03-25-1649",
+  "root_path": "/home/zcy/workspace",
+  "scanned_at": "2026-03-25T16:49:04.355789",
+  "data": [
+    {
+      "path": "/home/zcy/workspace",
+      "size": 2981216
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher",
+      "size": 1119478
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/scans",
+      "size": 862574
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong",
+      "size": 729345
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份",
+      "size": 567481
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator",
+      "size": 564912
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.git",
+      "size": 187468
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher",
+      "size": 48999
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/styles",
+      "size": 37944
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/styles",
+      "size": 37944
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/styles",
+      "size": 33672
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git",
+      "size": 29862
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher/__pycache__",
+      "size": 29278
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git",
+      "size": 29249
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git",
+      "size": 27387
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/hooks",
+      "size": 26171
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/hooks",
+      "size": 26171
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.git/hooks",
+      "size": 25821
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/hooks",
+      "size": 25821
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/data",
+      "size": 24483
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv",
+      "size": 15442
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/bin",
+      "size": 15265
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/data/events",
+      "size": 11051
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/logs",
+      "size": 2114
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/logs",
+      "size": 1626
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/disk_watcher.egg-info",
+      "size": 560
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.git/logs",
+      "size": 536
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/info",
+      "size": 265
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/info",
+      "size": 265
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/info",
+      "size": 240
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.git/info",
+      "size": 240
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.claude",
+      "size": 221
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/logs",
+      "size": 198
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.claude",
+      "size": 155
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.claude",
+      "size": 94
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/lib",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.venv/include",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/branches",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/refs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator-备份/.git/objects",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/branches",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/objects",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UniversitySimulator/.git/refs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.git/branches",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.git/refs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/branches",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/objects",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/UnivSim - wrong/.git/refs",
+      "size": 0
+    },
+    {
+      "path": "/home/zcy/workspace/disk-watcher/.git/objects",
+      "size": 0
+    }
+  ]
+}

@@ -3,12 +3,24 @@ from __future__ import annotations
 
 import argparse
 import sys
+import unicodedata
 from datetime import datetime
 from pathlib import Path
 
 from .scanner import scan_directory, format_size
 from .storage import init_db, save_scan, get_available_scans
 from .reporter import generate_report, list_scans
+
+
+def display_width(text: str) -> int:
+    """Calculate display width of text (Chinese chars = 2 cells)."""
+    width = 0
+    for char in text:
+        if unicodedata.east_asian_width(char) in ('W', 'F'):
+            width += 2
+        else:
+            width += 1
+    return width
 
 
 def format_tree(scan_data: list[tuple[str, int]], root_path: str, top_n: int = 20, min_size_mb: int = 1) -> str:
@@ -47,12 +59,19 @@ def format_tree(scan_data: list[tuple[str, int]], root_path: str, top_n: int = 2
     def print_node(path: str, size: int, prefix: str, is_last: bool, is_root: bool = False):
         name = path.split("/")[-1]
         size_str = format_size(size)
+        size_width = display_width(size_str)
 
         if is_root:
-            lines.append(f"{name:<{size_col - len(size_str)}}{size_str}")
+            name_width = display_width(name)
+            padding = size_col - name_width - size_width
+            lines.append(f"{name}{' ' * padding}{size_str}")
         else:
             tree_char = "└── " if is_last else "├── "
-            lines.append(f"{prefix}{tree_char}{name:<{size_col - len(prefix) - len(tree_char) - len(size_str)}}{size_str}")
+            prefix_width = display_width(prefix)
+            tree_width = display_width(tree_char)
+            name_width = display_width(name)
+            padding = size_col - prefix_width - tree_width - name_width - size_width
+            lines.append(f"{prefix}{tree_char}{name}{' ' * padding}{size_str}")
 
         if path not in children:
             return
@@ -65,7 +84,11 @@ def format_tree(scan_data: list[tuple[str, int]], root_path: str, top_n: int = 2
 
     # Start from root
     root_size = next((s for p, s in by_size if p == root_path), 0)
-    lines.append(f"{root_path:<{size_col - len(format_size(root_size))}}{format_size(root_size)}")
+    root_size_str = format_size(root_size)
+    root_size_width = display_width(root_size_str)
+    root_width = display_width(root_path)
+    padding = size_col - root_width - root_size_width
+    lines.append(f"{root_path}{' ' * padding}{root_size_str}")
 
     if root_path in children:
         child_items = children[root_path]
